@@ -1,0 +1,7 @@
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula13\Aula13\bin\Debug\Aula13.exe.config
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula13\Aula13\bin\Debug\Aula13.exe
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula13\Aula13\bin\Debug\Aula13.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula13\Aula13\obj\Debug\Aula13.csproj.AssemblyReference.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula13\Aula13\obj\Debug\Aula13.csproj.CoreCompileInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula13\Aula13\obj\Debug\Aula13.exe
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula13\Aula13\obj\Debug\Aula13.pdb

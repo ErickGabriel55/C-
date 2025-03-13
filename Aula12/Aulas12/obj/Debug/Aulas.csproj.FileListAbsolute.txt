@@ -1,0 +1,7 @@
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aulas\Aulas\obj\Debug\Aulas.csproj.AssemblyReference.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aulas\Aulas\obj\Debug\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aulas\Aulas\bin\Debug\Aulas.exe.config
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aulas\Aulas\bin\Debug\Aulas.exe
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aulas\Aulas\bin\Debug\Aulas.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aulas\Aulas\obj\Debug\Aulas.exe
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aulas\Aulas\obj\Debug\Aulas.pdb

@@ -1,0 +1,14 @@
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\loops.AssemblyInfoInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\loops.AssemblyInfo.cs
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\bin\Debug\net8.0\loops.exe
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\bin\Debug\net8.0\loops.deps.json
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\bin\Debug\net8.0\loops.runtimeconfig.json
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\bin\Debug\net8.0\loops.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\bin\Debug\net8.0\loops.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\loops.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\refint\loops.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\loops.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\loops.genruntimeconfig.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\loops\obj\Debug\net8.0\ref\loops.dll

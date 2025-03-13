@@ -1,0 +1,14 @@
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\CompleteFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\CompleteFunction.AssemblyInfoInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\CompleteFunction.AssemblyInfo.cs
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\CompleteFunction.csproj.CoreCompileInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\bin\Debug\net8.0\CompleteFunction.exe
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\bin\Debug\net8.0\CompleteFunction.deps.json
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\bin\Debug\net8.0\CompleteFunction.runtimeconfig.json
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\bin\Debug\net8.0\CompleteFunction.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\bin\Debug\net8.0\CompleteFunction.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\CompleteFunction.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\refint\CompleteFunction.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\CompleteFunction.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\CompleteFunction.genruntimeconfig.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\CompleteFunction\obj\Debug\net8.0\ref\CompleteFunction.dll

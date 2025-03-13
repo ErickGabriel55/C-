@@ -1,0 +1,14 @@
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\SimpleSumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\SimpleSumArray.AssemblyInfoInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\SimpleSumArray.AssemblyInfo.cs
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\SimpleSumArray.csproj.CoreCompileInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\bin\Debug\net8.0\SimpleSumArray.exe
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\bin\Debug\net8.0\SimpleSumArray.deps.json
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\bin\Debug\net8.0\SimpleSumArray.runtimeconfig.json
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\bin\Debug\net8.0\SimpleSumArray.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\bin\Debug\net8.0\SimpleSumArray.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\SimpleSumArray.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\refint\SimpleSumArray.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\SimpleSumArray.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\SimpleSumArray.genruntimeconfig.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\exercicios\hackerhank e letcode - C#\SimpleSumArray\obj\Debug\net8.0\ref\SimpleSumArray.dll

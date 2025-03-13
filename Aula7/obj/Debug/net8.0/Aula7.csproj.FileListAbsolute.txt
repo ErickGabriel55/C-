@@ -1,0 +1,14 @@
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\bin\Debug\net8.0\Aula7.exe
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\bin\Debug\net8.0\Aula7.deps.json
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\bin\Debug\net8.0\Aula7.runtimeconfig.json
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\bin\Debug\net8.0\Aula7.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\bin\Debug\net8.0\Aula7.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\Aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\Aula7.AssemblyInfoInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\Aula7.AssemblyInfo.cs
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\Aula7.csproj.CoreCompileInputs.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\Aula7.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\refint\Aula7.dll
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\Aula7.pdb
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\Aula7.genruntimeconfig.cache
+C:\Users\RNC\OneDrive\Documentos\ESTUDOS\C#\Aulas\ConsoleApp1\Aula7\obj\Debug\net8.0\ref\Aula7.dll
